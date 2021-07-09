@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: CollegeBoreal
+@author: CB
 """
 
 import json
